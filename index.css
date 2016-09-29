@@ -1,0 +1,28 @@
+
+img {
+	display: block;
+	margin: auto;
+	border-style: solid;
+	border-color: black;
+}
+
+h1 {
+	text-align: center;
+	color: black;
+
+}
+p {
+	color: black;
+	font-weight
+	text-decoration: underline;
+	text-align: center; 
+}
+
+body {
+	background-color: lightblue;
+}
+
+a {
+	border-color: black;
+	border: 3px solid;
+}

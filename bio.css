@@ -1,0 +1,22 @@
+body {
+	background-color: lightblue;
+}
+
+h1{
+	text-align: center;
+	text-decoration: underline;
+	padding-top: 20%;
+}
+
+p{
+	text-align: center;
+	color: black;
+}
+
+a {
+	color: black;
+	text-align: center;
+	text-decoration: underline;
+	border-color: black;
+	border: 3px solid;
+}
