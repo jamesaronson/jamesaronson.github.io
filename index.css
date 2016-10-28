@@ -1,6 +1,7 @@
 
 img {
 	display: block;
+	height: 25%;
 	margin: auto;
 	border-style: solid;
 	border-color: black;
@@ -13,7 +14,6 @@ h1 {
 }
 p {
 	color: black;
-	font-weight
 	text-decoration: underline;
 	text-align: center; 
 }
