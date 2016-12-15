@@ -14,7 +14,6 @@ h1 {
 }
 p {
 	color: black;
-	text-decoration: underline;
 	text-align: center; 
 }
 
@@ -22,7 +21,11 @@ body {
 	background-color: lightblue;
 }
 
-a {
-	border-color: black;
-	border: 3px solid;
+
+button {
+	display: block;
+	margin: auto;
+	color: black;
+	text-decoration: underline;
+	text-align: center;
 }
